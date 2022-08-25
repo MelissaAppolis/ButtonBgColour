@@ -10,7 +10,7 @@ Navigate to project root folder, in your terminal type in `npm install` to insta
 
 ## Usage
 
-Just click the button an watch the magic happen :)
+Just click the button and watch the magic happen :)
 
 ## Credits
 Created by [@MelissaAppolis](https://github.com/MelissaAppolis)
